@@ -3,12 +3,12 @@ Dice Or Death its a PC 3D tabletop roguelike game in progress. In Dice Or Death 
 
 ### 💻 Technologies
 - Unity
-- Maya
+- Autodesk Maya
 - Zbrush
 - Substance Painter 3D
 - Photoshop
 
-### 🎲 Mechanics
+### 🎲 Features
 - 3D Roguelike Tabletop & Dark Medieval Fantasy style
 - Unique sets of Dice for each Hero & Enemies
 - Turn based Combat with dice
