@@ -16,4 +16,8 @@ Dice Or Death its a PC 3D tabletop roguelike game in progress. In Dice Or Death 
 - Random events across rooms that may harm or benefit your party
 
 ### ✨ Story
-You are a player in a fantasy tabletop game that you play with a friend. In the game, a powerful evil wizard made its lair within a dungeon called **The Nest**, there he lures adventurers with the promise of great treasures and gold but only to kill them inside the dungeon and consume their souls to grow stronger. You must lead the party of adventurers that reach the bottom of The Nest without getting killed, defeat the Lich and take away his treasure.
+You are a player in a fantasy tabletop game that you play with a friend. 
+
+In the game, a powerful evil wizard made its lair within a dungeon called **The Nest**, there he lures adventurers with the promise of great treasures and gold but only to kill them inside the dungeon and consume their souls to grow stronger. 
+
+You must lead the party of adventurers that reach the bottom of The Nest without getting killed, defeat the Lich and take away his treasure.
