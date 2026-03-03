@@ -24,7 +24,4 @@ You must lead the party of adventurers that reach the bottom of The Nest without
 
 ### 🎞 Preview
 
-[![Watch the video](https://img.youtu.be/Jako2RvX7Do/hqdefault.jpg)](https://youtu.be/Jako2RvX7Do)
-
-[<img src="https://img.youtu.be/Jako2RvX7Do/hqdefault.jpg" width="600" height="300"
-/>](https://youtu.be/Jako2RvX7Do)
+[![Video Title](https://img.youtube.com/vi/Jako2RvX7Do/0.jpg)](https://www.youtube.com/watch?v=Jako2RvX7Do)
